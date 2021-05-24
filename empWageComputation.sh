@@ -2,3 +2,8 @@
 
 
 echo  "hello my frnds"
+
+
+echo  "Open Terminal"
+
+
